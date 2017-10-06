@@ -2,7 +2,7 @@
 An IoT wearable device with an android application to for women safety. Android application will be activated with the help of IoT device.
 
 # Description
-There are tow parts of this syatem
+There are two parts of this syatem
 1. An IoT wearable device
 2. An android application
 
