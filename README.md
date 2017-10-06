@@ -10,4 +10,5 @@ The system will provide help to it's users without mobile interaction with the h
 
 The system uses Google ActivityRecognisationService to identify user current activity. As well as different sensors like heart rate, accelorometer sensor are also used for IoT device.
 
-Dataset for accelerometer sensor are collected in different situations like running, walking or in vehicle and added in the project under arduino section.
+Dataset for accelerometer sensor are collected in different situations like running, walking or in vehicle and added in the project under arduino section. Only the main source code of the application is provided within android section.
+
